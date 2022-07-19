@@ -1,1 +1,3 @@
 # Staj-ReadMe
+
+1) Deneme Testi Yapılıyor...
